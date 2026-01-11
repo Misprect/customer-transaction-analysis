@@ -1,0 +1,12 @@
+__pycache__/
+.env
+.ipynb_checkpoints/
+
+# Models
+*.pkl
+*.joblib
+
+# Ignore raw datasets
+train.csv
+test.csv
+submission.csv
