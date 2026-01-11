@@ -55,6 +55,7 @@ The project implements **feature engineering, imbalance handling, model training
 - LightGBM achieved the **best performance**
 - Validation ROC-AUC ≈ **0.89**
 - Model generalized well with early stopping
+- All results and plots have been saved in results please check there for results update on plots and graphs.
 
 ---
 
